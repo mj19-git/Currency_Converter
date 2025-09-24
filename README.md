@@ -1,52 +1,62 @@
-💸 Currency Converter Web Application
+## 💸 Currency Converter Web Application
 
-A responsive web application that allows users to convert currencies in real time using a live currency API. Built with HTML, CSS, and JavaScript, this project supports 100+ currencies and provides an interactive UI with country flags for better usability.
+A responsive web application that allows users to convert currencies in real time using a live currency API. Built with **HTML, CSS and JavaScript**, this project supports **100+ currencies** and provides an interactive UI with country flags for better usability.
 
-✨ Features
+---
 
-🔄 Real-time exchange rate conversions using live API
+## ✨ Features
 
-🌍 Supports 100+ global currencies
+* 🔄 Real-time exchange rate conversions using live API
+* 🌍 Supports 100+ global currencies
+* 📱 Fully responsive design for desktop & mobile
+* 🏳️ Dynamic country flags for selected currencies
+* ⚡ Fast and user-friendly interface
 
-📱 Fully responsive design for desktop & mobile
+---
 
-🏳️ Dynamic country flags for selected currencies
+## 🛠️ Tech Stack
 
-⚡ Fast and user-friendly interface
+* **Frontend:** HTML, CSS, JavaScript
+* **API:** [Currency API](https://github.com/fawazahmed0/currency-api)
+* **Flags:** [Flags API](https://flagsapi.com/)
 
-🛠️ Tech Stack
+---
 
-Frontend: HTML, CSS, JavaScript
+## 🚀 Getting Started
 
-API: Currency API
+1. Clone the repository:
 
-Flags: Flags API
+   ```bash
+   git clone https://github.com/your-username/currency-converter.git
+   cd currency-converter
+   ```
+2. Open `index.html` in your browser.
 
-🚀 Getting Started
+---
 
-Clone the repository:
+## 📈 Project Impact
 
-git clone https://github.com/your-username/currency-converter.git
-cd currency-converter
+* Improved usability and accuracy by **\~85%** through responsive design and interactive components.
+* Enhanced user experience with **real-time conversions and intuitive UI**.
 
+---
 
-Open index.html in your browser.
+## 📸 Screenshots
 
-📈 Project Impact
+*<img width="1890" height="911" alt="Screenshot 2025-09-25 022121" src="https://github.com/user-attachments/assets/0ec59fd7-3041-4f36-a544-cc0441aeefc8" />
+*
 
-Improved usability and accuracy by ~85% through responsive design and interactive components.
+---
 
-Enhanced user experience with real-time conversions and intuitive UI.
-
-📸 Screenshots
-
-<img width="1890" height="911" alt="Screenshot 2025-09-25 022121" src="https://github.com/user-attachments/assets/27c69010-6277-405e-8498-7b2938a53b37" />
-
-
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Fork the repo and submit a pull request.
 
-📜 License
+---
 
-This project is licensed under the MIT License.
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
